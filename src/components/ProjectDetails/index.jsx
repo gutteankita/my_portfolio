@@ -65,7 +65,7 @@ class ProjectDetails extends Component {
                                 </Members>
                             </>
                         )}
-                        <h4 style={{ color: 'White' }}>PASSWORD: rahul@20201    NAME: rahul</h4>
+                        {/* <h4 style={{ color: 'White' }}>PASSWORD: rahul@20201    NAME: rahul</h4> */}
 
                         <ButtonGroup>
                             <Button dull href={project?.github} target='new'>View Code</Button>
