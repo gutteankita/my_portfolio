@@ -123,21 +123,6 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://afame.in/wp-content/uploads/2023/08/logo-.jpg",
-    role: "Frontend Developer Intern",
-    company: "Afame Technologies",
-    date: "Present",
-    desc: "Developing frontend projects, proficient in utilizing a wide array of technologies and tools to create visually appealing and user-friendly interfaces. ",
-    skills: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React JS",
-    ],
-    doc: "",
-     },
-  {
-    id: 0,
     img: "https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Nxtwave_Colored.svg",
     role: "Learner",
     company: "NXT Wave",
@@ -156,6 +141,22 @@ export const experiences = [
     // doc: "",
     // "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
+  {
+    id: 0,
+    img: "https://afame.in/wp-content/uploads/2023/08/logo-.jpg",
+    role: "Frontend Developer Intern",
+    company: "Afame Technologies",
+    date: "",
+    desc: "Developing frontend projects, proficient in utilizing a wide array of technologies and tools to create visually appealing and user-friendly interfaces. ",
+    skills: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+    ],
+    doc: "",
+     },
+  
   {
     id: 1,
     img: "https://media.licdn.com/dms/image/C4E0BAQFm0RfoXOF6DA/company-logo_200_200/0/1655723072942/rehlat_logo?e=1723680000&v=beta&t=Z8tA8o5shfZUiau--07JLALIQ2RheGytQUakzfTkiiU",
